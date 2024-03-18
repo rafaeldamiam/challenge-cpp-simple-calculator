@@ -56,4 +56,4 @@ Then, use the command bellow to compile de script:
 
 Then use the following command to run:
 
-`./calculator.sh`
+`./calculator`
